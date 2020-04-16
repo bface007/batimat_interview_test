@@ -2,17 +2,20 @@
 
 Cette application fait office de test technique pour le développement fullstack Laravel / VueJS
 
-#Version utilisée
+Version utilisée
+==
 
 Laravel v7
 
-#Requis
+Requis
+==
 - Composer
 - NodeJs
 - Une base de données relationnelles, de préférences MySQL, MariaDB ou PostgreSQL
 - Un serveur capable de faire tourner Laravel v7
 
-#Installation
+Installation
+==
 
 - Lancer la commande ``composer install``, en supposant que vous avez installé la commande Composer de façon globale
 - Lancer la commande ``npm install``, en supposant que vous avez déjà installé NodeJs

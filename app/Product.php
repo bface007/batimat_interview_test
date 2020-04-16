@@ -13,5 +13,16 @@ class Product extends Model
         'user_id',
         'products_group_id',
         'provider_id',
+        'price',
     ];
+
+    public function provider()
+    {
+        return $this->belongsTo(Provider::class);
+    }
+
+    public function group()
+    {
+        return $this->belongsTo(ProductsGroup::class);
+    }
 }

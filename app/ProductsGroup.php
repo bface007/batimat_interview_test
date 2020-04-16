@@ -4,15 +4,10 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Provider extends Model
+class ProductsGroup extends Model
 {
     //
-    protected $fillable = [
-        'name',
-        'phone',
-        'code',
-        'email',
-    ];
+    protected $fillable = ['name', 'price'];
 
     public function products()
     {

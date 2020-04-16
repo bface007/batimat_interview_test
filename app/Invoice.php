@@ -10,4 +10,9 @@ class Invoice extends Model
     protected $fillable = [
         'number',
     ];
+
+    public function invoiced()
+    {
+        return $this->morphTo();
+    }
 }
