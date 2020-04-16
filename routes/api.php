@@ -13,12 +13,17 @@ use Illuminate\Support\Facades\Route;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
-Route::apiResources([
-    'products' => 'ProductController',
-    'clients' => 'ClientController',
-    'providers' => 'ProviderController',
-]);
 
-Route::middleware('auth:api')->get('/user', function (Request $request) {
-    return $request->user();
+
+Route::middleware([
+    'auth:sanctum'
+])->group(function () {
+    Route::apiResources([
+        'products' => 'ProductController',
+        'clients' => 'ClientController',
+        'providers' => 'ProviderController',
+    ]);
+    Route::get('/me', function (Request $request) {
+        return $request->user();
+    });
 });

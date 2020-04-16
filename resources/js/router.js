@@ -3,19 +3,39 @@ import VueRouter from 'vue-router'
 
 Vue.use(VueRouter);
 
-import Home from "./components/Home";
+import LoginPage from "./pages/LoginPage";
+import HomePage from "./pages/HomePage";
+import LoadingPage from "./pages/LoadingPage";
+
+import ClientTab from './pages/home/ClientTab';
+import ProviderTab from "./pages/home/ProviderTab";
 
 const routes = [
     {
-        path: '/public/home',
-        name: 'home',
-        component: Home,
+        path: '/',
+        component: LoadingPage,
+    },
+    {
+        path: '/login',
+        name: 'login',
+        component: LoginPage,
+    },
+    {
+        path: '/home',
+        component: HomePage,
+        children: [
+            {
+                path: '/',
+                component: ClientTab,
+            }, {
+                path: 'providers',
+                component: ProviderTab,
+            },
+        ],
     }
 ];
 
 export default new VueRouter({
-    history: true,
-    mode: 'history',
     routes,
 })
 

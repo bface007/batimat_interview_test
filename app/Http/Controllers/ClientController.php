@@ -10,11 +10,11 @@ class ClientController extends Controller
     /**
      * Display a listing of the resource.
      *
-     * @return \Illuminate\Http\Response
+     * @return Client[]|\Illuminate\Database\Eloquent\Collection
      */
     public function index()
     {
-        //
+        return Client::all();
     }
 
 
@@ -26,7 +26,10 @@ class ClientController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        return Client::create([
+            'name' => $request->post('name'),
+            'phone' => $request->post('phone')
+        ]);
     }
 
     /**

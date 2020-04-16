@@ -2,10 +2,245 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5be0325-8f54-41f9-bdd8-82df58fb04e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/batimat_interview_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/batimat_interview_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/backgrounds/chat-bg-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/backgrounds/chat-bg-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/backgrounds/chat-bg-backup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/backgrounds/chat-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/backgrounds/chat-bg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/banner-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/banner/parallax-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/dropzone/spritemap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/dropzone/spritemap@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/elements/apple-watch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/elements/beats-headphones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/elements/decore-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/elements/decore-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/elements/homepod.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/elements/ipad-pro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/elements/iphone-x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/elements/jbl-speaker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/elements/macbook-pro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/elements/magic-mouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/flags/de.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/flags/en.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/flags/fr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/flags/pt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/ico/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/icons/doc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/icons/jpg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/icons/pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/icons/xls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/logo/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/logo/logo-danger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/logo/logo-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/logo/logo-info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/logo/logo-primary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/logo/logo-success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/logo/logo-warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/logo/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/logo/vuexy-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/1-apex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/2-stack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/3-convex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/4-materialize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/arrow-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/card-image-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/card-image-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/card-image-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/card-img-overlay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/carousel/faq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/content-img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/content-img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/content-img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/content-img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/alienware-laptop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/amazon-chromecast.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/amazon-echodot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/amazon-firestick.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/amazon-google-home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/apple-Imac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/apple-ear-pods.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/apple-macbook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/asus-desktop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/bank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/bower-and-wilkins-speaker.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/canon-camera.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/dell-inspirion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/garmin-watch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/garmin-watch2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/phillips-smart-led.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/samsung-fridge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/sharp-50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/sony-75class-tv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/eCommerce/sony-headphones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/faq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/forgot-password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/graphic-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/graphic-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/graphic-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/graphic-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/graphic-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/graphic-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/kb-article.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/knowledge-base-cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/lock-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/login/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/login/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/login/google.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/login/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/maintenance-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/maintenance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/modern.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/not-authorized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/register.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/reset-password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/rocket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/search-result.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/video-poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/pages/vuexy-login-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/portrait/small/avatar-s-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/pages/page-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/pages/page-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/pages/page-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/pages/page-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/pages/page-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/pages/page-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/pages/page-07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/pages/page-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/pages/page-09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/post-media/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/post-media/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/user-uploads/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/user-uploads/user-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/user-uploads/user-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/user-uploads/user-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/user-uploads/user-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/user-uploads/user-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/user-uploads/user-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/user-uploads/user-07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/user-uploads/user-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/user-uploads/user-09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/user-uploads/user-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/user-uploads/user-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/user-uploads/user-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/profile/user-uploads/user-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/raty/star-half-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/raty/star-on-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/slider/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/slider/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/slider/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/slider/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/slider/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/slider/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/vuexy/svg/google.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/components/AppButton.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/pages/LoadingPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/pages/LoginPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/pages/home/ClientTab.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/services/services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/custom/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/vuexy/vuexy.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Dan_T__Ngossinga.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Dan_T__Ngossinga.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ClientController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ClientController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/pages/HomePage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/pages/home/ProviderTab.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +253,24 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="SCSS File c" />
         <option value="JavaScript File" />
         <option value="Vue Single File Component" />
       </list>
@@ -144,9 +394,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/images/vuexy" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bface007\workspace\batimat\batimat_interview_test\resources\js" />
+      <recent name="C:\Users\bface007\workspace\batimat\batimat_interview_test\resources\js\components\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bface007\workspace\batimat\batimat_interview_test\resources\images\vuexy" />
+      <recent name="C:\Users\bface007\workspace\batimat\batimat_interview_test\resources\sass\vuexy" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.watch">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -192,7 +453,9 @@
       <updated>1586813009609</updated>
       <workItem from="1586813012810" duration="929000" />
       <workItem from="1586892239693" duration="7959000" />
-      <workItem from="1587002185640" duration="4402000" />
+      <workItem from="1587002185640" duration="8187000" />
+      <workItem from="1587010396088" duration="20942000" />
+      <workItem from="1587033912592" duration="6082000" />
     </task>
     <servers />
   </component>
@@ -204,6 +467,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1586906245799" />
+    <state x="409" y="200" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1587009246171">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="409" y="200" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.864@0.0.1536.864" timestamp="1587009246171" />
     <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1586903612995">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -212,37 +479,41 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1587005422510" />
+    <state x="499" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587018566419">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1587018566419" />
     <state x="548" y="179" key="FileChooserDialogImpl" timestamp="1586813219911">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="548" y="179" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586813219911" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1586919703354">
+    <state width="1493" height="124" key="GridCell.Tab.0.bottom" timestamp="1587033890459">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586919703354" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1586919703353">
+    <state width="1493" height="124" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587033890459" />
+    <state width="1493" height="124" key="GridCell.Tab.0.center" timestamp="1587033890459">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586919703353" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1586919703353">
+    <state width="1493" height="124" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587033890459" />
+    <state width="1493" height="124" key="GridCell.Tab.0.left" timestamp="1587033890459">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586919703353" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1586919703353">
+    <state width="1493" height="124" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587033890459" />
+    <state width="1493" height="124" key="GridCell.Tab.0.right" timestamp="1587033890459">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586919703353" />
-    <state x="277" y="75" key="SettingsEditor" timestamp="1586813229714">
+    <state width="1493" height="124" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587033890459" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1587010477329">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586813229714" />
-    <state x="425" y="197" key="run.anything.popup" timestamp="1586906085490">
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1587010477329" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1587030112235">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1586906085490" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1587006564327">
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1587030112235" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1587039922359">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587006564327" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587039922359" />
   </component>
 </project>

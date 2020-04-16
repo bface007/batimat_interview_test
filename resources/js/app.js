@@ -13,6 +13,8 @@ import VueRouter from 'vue-router'
 import router from './router'
 Vue.use(VueRouter);
 
+import { store } from './store/store'
+
 /**
  * The following block of code may be used to automatically register your
  * Vue components. It will recursively scan this directory for the Vue
@@ -21,10 +23,10 @@ Vue.use(VueRouter);
  * Eg. ./components/ExampleComponent.vue -> <example-component></example-component>
  */
 
-// const files = require.context('./', true, /\.vue$/i)
-// files.keys().map(key => Vue.component(key.split('/').pop().split('.')[0], files(key).default))
+const files = require.context('./', true, /\.vue$/i)
+files.keys().map(key => Vue.component(key.split('/').pop().split('.')[0], files(key).default))
 
-Vue.component('index', require('./components/index'));
+
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to
@@ -34,4 +36,6 @@ Vue.component('index', require('./components/index'));
 
 const app = new Vue({
     el: '#app',
+    router,
+    store,
 });
