@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5be0325-8f54-41f9-bdd8-82df58fb04e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/batimat_interview_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/batimat_interview_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +128,7 @@
       <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
       <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sanctum" />
     </include_path>
   </component>
   <component name="ProjectId" id="1aV8qtLtw69gbymIGM2rGAN3vci" />
@@ -188,7 +192,7 @@
       <updated>1586813009609</updated>
       <workItem from="1586813012810" duration="929000" />
       <workItem from="1586892239693" duration="7959000" />
-      <workItem from="1587002185640" duration="4240000" />
+      <workItem from="1587002185640" duration="4402000" />
     </task>
     <servers />
   </component>
@@ -236,9 +240,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1586906085490" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1587006164829">
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1587006564327">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587006164829" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587006564327" />
   </component>
 </project>
