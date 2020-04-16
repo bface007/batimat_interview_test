@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5be0325-8f54-41f9-bdd8-82df58fb04e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Dan_T__Ngossinga.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Dan_T__Ngossinga.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Invoice.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Invoice.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Order.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Order.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/OrderProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/OrdersProduct.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Product.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Provider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Provider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Quote.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Quote.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/QuoteProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/QuotesProduct.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +188,7 @@
       <updated>1586813009609</updated>
       <workItem from="1586813012810" duration="929000" />
       <workItem from="1586892239693" duration="7959000" />
-      <workItem from="1587002185640" duration="3990000" />
+      <workItem from="1587002185640" duration="4240000" />
     </task>
     <servers />
   </component>
